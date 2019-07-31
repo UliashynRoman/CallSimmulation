@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="serwerRun:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/serwerRun_jar</output-path>
+    <root id="archive" name="Voicer.jar">
+      <element id="module-output" name="Voicer" />
+      <element id="module-output" name="Serwer" />
+      <element id="module-output" name="Client" />
+    </root>
+  </artifact>
+</component>
